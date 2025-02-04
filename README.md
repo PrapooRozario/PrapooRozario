@@ -1,21 +1,60 @@
-<h1 align="center">Hi 👋, I'm Prapoo Rozario</h1>
-<h3 align="center">A Young Developer With Big Dreams and Bigger Code</h3>
+<div align="center">
+  <img height="100" src="https://i.ibb.co.com/Z1V4dpqn/Linked-In-Cover.png"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prapoorozario&label=Profile%20views&color=0e75b6&style=flat" alt="prapoorozario" /> </p>
+###
 
-- 📫 How to reach me **albart2022@gmail.com**
+<h1 align="left">Prapoo Rozario</h1>
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">I'm a 15 year old MERN Stack Developer from Bangladesh, dedicated to building dynamic and responsive web applications.</p>
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/albart-rozario-825259290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/albart-rozario-825259290/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100081222159432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081222159432" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="left">- 👯 I’m looking to collaborate on open-source MERN projects.<br>- 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB, and Firebase.<br>- ⚡ Fun fact: I love learn new things.</p>
 
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prapoorozario&show_icons=true&locale=en&layout=compact" alt="prapoorozario" /></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="32" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="vscode logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prapoorozario&show_icons=true&locale=en" alt="prapoorozario" /></p>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/prapoo-rozario-825259290/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100081222159432" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrapooRozario&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+###
+
+![Prapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrapooRozario&show_icons=true&theme=transparent)
