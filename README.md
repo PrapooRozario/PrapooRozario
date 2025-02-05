@@ -4,7 +4,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Hi+there!+I'm+Prapoo+Rozario;A+15+year+old+MERN+Stack+Devloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Hi+there!+I'm+Prapoo+Rozario;A+MERN+Stack+Devloper)](https://git.io/typing-svg)
 
 <h1 align="left">Prapoo Rozario</h1>
 
