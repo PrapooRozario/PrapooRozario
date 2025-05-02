@@ -71,5 +71,5 @@ I'm a passionate 15-year-old MERN Stack Developer from Bangladesh with a keen in
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PrapooRozario&style=flat-square&color=4285F4" alt="Profile Views"/>
   
-  ### "Building the web, one line of code at a time."
+  ### Building the web, one line of code at a time.
 </div>
